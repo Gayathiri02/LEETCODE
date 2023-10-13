@@ -10,3 +10,7 @@ class Solution:
                     stack.append(path[i])
             
         return "/"+"/".join(stack)
+'''
+TIME COMPLEXITY:O(n)
+SPACE COMPLEXITY:O(n)
+'''
