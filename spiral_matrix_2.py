@@ -25,4 +25,7 @@ class Solution:
                 val+=1
             l+=1
         return matrix
-                    
+'''
+TIME COMPLEXITY: O(n^2)
+SPACE COMPLEXITY: O(n^2)
+'''
