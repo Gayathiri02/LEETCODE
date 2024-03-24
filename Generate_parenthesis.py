@@ -7,7 +7,7 @@ class Solution:
                 res.append("".join(stack))
                 return
             if o<n:
-                stack.append("(")
+                stack.append("(") 
                 backtrack(o+1,c)
                 stack.pop()
             if c<o:

@@ -16,6 +16,6 @@ def booleanMatrix(matrix):
                 matrix[i][j]=1    
     print(matrix)            
 
-matrix=[[ 1, 0, 0],[ 1, 0, 0],[1, 0, 0],[0, 0, 0]]               
+matrix=[[1,0,0],[1, 0, 0],[1, 0, 0],[0, 0, 0]]               
 booleanMatrix(matrix)          
        

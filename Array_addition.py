@@ -1,7 +1,7 @@
 '''
 ARRAY ADDITION:
      Given two array A[0….n-1] and B[0….m-1] of size n and m respectively, representing two numbers such that every element of arrays represent a digit.
-For example, A[] = { 1, 2, 3} and B[] = { 2, 1, 4 } represent 123 and 214 respectively. The
+For example, A[] = { 1, 2, 3} and B[] = { 2, 1, 4 } represent 123 and 214 respectively.
 '''
 #SOLUTION:
 a1=[1,2,3]

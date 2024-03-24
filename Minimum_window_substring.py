@@ -1,3 +1,4 @@
+from collections import Counter
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
         minlength=float('inf')
@@ -28,4 +29,4 @@ class Solution:
 s="ADOBECODEBANC"
 t="ABC"
 a=Solution()
-a.minWindow(s,t)
+print(a.minWindow(s,t))
