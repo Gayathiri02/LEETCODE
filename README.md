@@ -1,2 +1,2 @@
 
-	Leetcode link : (https://leetcode.com/u/GAYATHIRI_T/)
+	Leetcode link : [Leetcode profile](https://leetcode.com/u/GAYATHIRI_T/)
